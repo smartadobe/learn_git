@@ -69,4 +69,8 @@ print(locals())
 
 print(globals())
 print
+<<<<<<< HEAD
 haha
+=======
+aiai
+>>>>>>> dev
